@@ -1,3 +1,21 @@
+# Misiones de Limpieza
+
+Una aplicación que convierte las tareas de limpieza en misiones divertidas. Los usuarios pueden:
+- Seguir diferentes niveles de misiones
+- Marcar tareas como completadas
+- Acumular puntos y ver su progreso
+- Filtrar misiones por frecuencia
+
+## Cómo usar
+1. Visita [https://agvp1521.github.io/misiones-limpieza]
+2. Selecciona tu nivel actual
+3. Completa misiones y acumula puntos
+4. ¡Disfruta de un hogar limpio mientras juegas!
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
