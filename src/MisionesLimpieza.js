@@ -23,7 +23,7 @@ export default function MisionesLimpieza() {
       {id: 16, mision: "Limpiar puertas", puntos: 10, tiempo: "20 min", frecuencia: "Mensual", recompensa: "Mejor calidad de aire", recompensaPersonal: "Comprar un libro o audiolibro", notas: "Usa un cepillo para eliminar polvo acumulado y mejorar la circulación."},
       {id: 17, mision: "Desinfectar control remoto y teclados", puntos: 10, tiempo: "10 min", frecuencia: "Semanal", recompensa: "Momento tecnológico libre", recompensaPersonal: "Tú escoges libremente", notas: "Usa alcohol isopropílico para eliminar gérmenes y mantener la higiene."},
       {id: 18, mision: "Limpiar cuadros", puntos: 10, tiempo: "10 min", frecuencia: "Semanal", recompensa: "Momento de reflexión breve", recompensaPersonal: "Probar una nueva receta", notas: "Usa un paño seco para mantenerlos brillantes y sin residuos."},
-      {id: 19, mision: "Lavar y desinfectar almohadas", puntos: 15, tiempo: "30 min", frecuencia: "Mensual", recompensa: "Disfrutar de una cama limpia", recompensaPersonal: "Tú escoges libremente", notas: "Usa detergente suave para prolongar la vida útil y evitar alergias."}
+      {id: 19, mision: "Lavar y desinfectar almohadas", puntos: 15, tiempo: "30 min", frecuencia: "Mensual", recompensa: "Disfrutar de una cama limpia", recompensaPersonal: "Tú escoges libremente", notas: "Usa detergente suave para prolongar la vida útil y evitar alergias."},
       {id: 65, mision: "Limpiar cama mascotas", puntos: 15, tiempo: "30 min", frecuencia: "Semanal", recompensa: "Brillo renovador", recompensaPersonal: "Tener detalles impecables", notas: "usar la aspiradora y cambiar la funda."}
     ],
     "Maestro/a del Orden": [
